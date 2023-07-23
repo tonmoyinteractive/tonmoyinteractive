@@ -56,7 +56,7 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonmoyinteractive&layout=compact&theme=nord" alt=tonmoyinteractive />
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonmoyinteractive&layout=compact&theme=nord" alt=tonmoyinteractive />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=tonmoyinteractive&show_icons=true&locale=en&theme=nord" alt="tonmoyinteractive" /></p>
 
