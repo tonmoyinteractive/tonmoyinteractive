@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **tonmoyinteractive@outlook.in**
 
-<div> <a href="https://github.com/tonmoyinteractive" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<div align="center"> <a href="https://github.com/tonmoyinteractive" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:tonmoyinteractive@outlook.in"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="center">
